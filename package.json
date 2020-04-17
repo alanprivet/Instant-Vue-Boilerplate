@@ -1,0 +1,19 @@
+{
+  "name": "instant-vue-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/alanprivet/instant-vue-boilerplate.git",
+  "author": "Alan Privet",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "css-loader": "^3.4.2",
+    "node-sass": "^4.13.1",
+    "pug": "^2.0.4",
+    "pug-plain-loader": "^1.0.0",
+    "sass-loader": "^8.0.2"
+  },
+  "dependencies": {
+    "bulma": "^0.8.1"
+  }
+}
